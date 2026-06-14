@@ -5,7 +5,8 @@
 #### An aspiring full-stack software engineer
 - 🔭 I’m currently working on my bachelor thesis
 - 🤖 i am a Software & AI Engineer Intern @ Wavess
-
+- 🌱 I’m currently learning React + TypeScript
+  
 #### Get in contact with me
 
 <br>
@@ -31,6 +32,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,powershell,npm" />
 </p>
 <hr>
+
 
 <!--
 ## ⚡️ Stats
