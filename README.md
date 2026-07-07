@@ -34,7 +34,7 @@
 <hr>
 
 
-<!--
+
 ## ⚡️ Stats
 
 <br>
@@ -44,7 +44,7 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Berzeliss&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Berzeliss's Most Used Languages" />
 </div>
 <hr>
--->
+
 
 
 <!--
