@@ -3,9 +3,8 @@
 </h1>
 
 #### An aspiring full-stack software engineer
-- 🔭 I’m currently working on my bachelor thesis
-- 🤖 i am a Software & AI Engineer Intern @ Wavess
-- 🌱 I’m currently learning React + TypeScript
+- 🔭 I’m currently looking for full-time work opportunities
+- 🌱 I’m actively working on leetcode problems
   
 #### Get in contact with me
 
